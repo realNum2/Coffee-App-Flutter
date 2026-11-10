@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Эспрессо",
+      "description": "Крепкий и бодрящий",
+      "price": 150,
+      "category": "Кофе",
+      "image": "assets/images/espresso.png"
+    },
+    {
+      "id": "2",
+      "name": "Круассан",
+      "description": "Слоеный, с маслом",
+      "price": 120,
+      "category": "Выпечка",
+      "image": "assets/images/croissant.png"
+    }
+  ]
+}
